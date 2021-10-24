@@ -1,0 +1,58 @@
+1> 2> use master
+1> 2> 3> 4> 5> 6> if (exists(select name from sysdatabases where name='SEIS732_Team_05_Corporate'))
+  begin
+    drop database SEIS732_Team_05_Corporate;
+  end;
+
+1> 2> 3> 4> 5> 6> if (exists(select name from sysdatabases where name='SEIS732_Team_05_Products'))
+  begin
+    drop database SEIS732_Team_05_Products;
+  end;
+
+1> 2> 3> 4> 5> 6> if (exists(select name from sysdatabases where name='SEIS732_Team_05_Sales_Org'))
+  begin
+    drop database SEIS732_Team_05_Sales_Org;
+  end;
+
+1> 2> 3> 4> 5> 6> if (exists(select name from sysdatabases where name='SEIS732_Team_05_Star_Schema'))
+  begin
+    drop database SEIS732_Team_05_Star_Schema;
+  end;
+
+1> 2> 3> if exists(select name from syslogins where name='SEIS732_Team_05_Corporate_User')
+exec sp_droplogin 'SEIS732_Team_05_Corporate_User'
+1> 2> create login SEIS732_Team_05_Corporate_User with password='2017_Roll_05', default_database=master, default_language=us_english, check_expiration=off, check_policy=off
+1> 2> 3> if exists(select name from syslogins where name='SEIS732_Team_05_Products_User')
+exec sp_droplogin 'SEIS732_Team_05_Products_User'
+1> 2> create login SEIS732_Team_05_Products_User with password='2017_Roll_05', default_database=master, default_language=us_english, check_expiration=off, check_policy=off
+1> 2> 3> if exists(select name from syslogins where name='SEIS732_Team_05_Sales_Org_User')
+exec sp_droplogin 'SEIS732_Team_05_Sales_Org_User'
+1> 2> create login SEIS732_Team_05_Sales_Org_User with password='2017_Roll_05', default_database=master, default_language=us_english, check_expiration=off, check_policy=off
+1> 2> 3> if exists(select name from syslogins where name='SEIS732_Team_05_Star_Schema_User')
+exec sp_droplogin 'SEIS732_Team_05_Star_Schema_User'
+1> 2> create login SEIS732_Team_05_Star_Schema_User with password='2017_Roll_05', default_database=master, default_language=us_english, check_expiration=off, check_policy=off
+1> 2> create database SEIS732_Team_05_Corporate collate SQL_Latin1_General_CP1_CS_AS
+1> 2> alter database SEIS732_Team_05_Corporate set recovery bulk_logged ;
+1> 2> alter database SEIS732_Team_05_Corporate set auto_shrink on ;
+1> 2> use SEIS732_Team_05_Corporate
+1> 2> sp_changedbowner 'SEIS732_Team_05_Corporate_User'
+1> 2> sp_defaultdb 'SEIS732_Team_05_Corporate_User', 'SEIS732_Team_05_Corporate'
+1> 2> create database SEIS732_Team_05_Products collate SQL_Latin1_General_CP1_CS_AS
+1> 2> alter database SEIS732_Team_05_Products set recovery bulk_logged ;
+1> 2> alter database SEIS732_Team_05_Products set auto_shrink on ;
+1> 2> use SEIS732_Team_05_Products
+1> 2> sp_changedbowner 'SEIS732_Team_05_Products_User'
+1> 2> sp_defaultdb 'SEIS732_Team_05_Products_User', 'SEIS732_Team_05_Products'
+1> 2> create database SEIS732_Team_05_Sales_Org collate SQL_Latin1_General_CP1_CS_AS
+1> 2> alter database SEIS732_Team_05_Sales_Org set recovery bulk_logged ;
+1> 2> alter database SEIS732_Team_05_Sales_Org set auto_shrink on ;
+1> 2> use SEIS732_Team_05_Sales_Org
+1> 2> sp_changedbowner 'SEIS732_Team_05_Sales_Org_User'
+1> 2> sp_defaultdb 'SEIS732_Team_05_Sales_Org_User', 'SEIS732_Team_05_Sales_Org'
+1> 2> create database SEIS732_Team_05_Star_Schema collate SQL_Latin1_General_CP1_CS_AS
+1> 2> alter database SEIS732_Team_05_Star_Schema set recovery bulk_logged ;
+1> 2> alter database SEIS732_Team_05_Star_Schema set auto_shrink on ;
+1> 2> use SEIS732_Team_05_Star_Schema
+1> 2> sp_changedbowner 'SEIS732_Team_05_Star_Schema_User'
+1> 2> sp_defaultdb 'SEIS732_Team_05_Star_Schema_User', 'SEIS732_Team_05_Star_Schema'
+1> 

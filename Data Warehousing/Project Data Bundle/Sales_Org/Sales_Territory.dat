@@ -1,0 +1,84 @@
+500	1500	3	Territory_1	This is the really valuable description of Territory_1
+501	1500	4	Territory_2	This is the really valuable description of Territory_2
+502	1500		Territory_3	This is the really valuable description of Territory_3
+503	1501		Territory_4	This is the really valuable description of Territory_4
+504	1501	8	Territory_5	This is the really valuable description of Territory_5
+505	1501		Territory_6	This is the really valuable description of Territory_6
+506	1502	12	Territory_7	This is the really valuable description of Territory_7
+507	1502	13	Territory_8	This is the really valuable description of Territory_8
+508	1502	14	Territory_9	This is the really valuable description of Territory_9
+509	1503	16	Territory_10	This is the really valuable description of Territory_10
+510	1503		Territory_11	This is the really valuable description of Territory_11
+511	1503	18	Territory_12	This is the really valuable description of Territory_12
+512	1504	21	Territory_13	This is the really valuable description of Territory_13
+513	1504		Territory_14	This is the really valuable description of Territory_14
+514	1504	23	Territory_15	This is the really valuable description of Territory_15
+515	1505	25	Territory_16	This is the really valuable description of Territory_16
+516	1505	26	Territory_17	This is the really valuable description of Territory_17
+517	1505		Territory_18	This is the really valuable description of Territory_18
+518	1506	30	Territory_19	This is the really valuable description of Territory_19
+519	1506	31	Territory_20	This is the really valuable description of Territory_20
+520	1506	32	Territory_21	This is the really valuable description of Territory_21
+521	1507	34	Territory_22	This is the really valuable description of Territory_22
+522	1507		Territory_23	This is the really valuable description of Territory_23
+523	1507	36	Territory_24	This is the really valuable description of Territory_24
+524	1508	39	Territory_25	This is the really valuable description of Territory_25
+525	1508	40	Territory_26	This is the really valuable description of Territory_26
+526	1508	41	Territory_27	This is the really valuable description of Territory_27
+527	1509	43	Territory_28	This is the really valuable description of Territory_28
+528	1509	44	Territory_29	This is the really valuable description of Territory_29
+529	1509	45	Territory_30	This is the really valuable description of Territory_30
+530	1510	48	Territory_31	This is the really valuable description of Territory_31
+531	1510		Territory_32	This is the really valuable description of Territory_32
+532	1510	50	Territory_33	This is the really valuable description of Territory_33
+533	1511	52	Territory_34	This is the really valuable description of Territory_34
+534	1511	53	Territory_35	This is the really valuable description of Territory_35
+535	1511	54	Territory_36	This is the really valuable description of Territory_36
+536	1512	57	Territory_37	This is the really valuable description of Territory_37
+537	1512	58	Territory_38	This is the really valuable description of Territory_38
+538	1512	59	Territory_39	This is the really valuable description of Territory_39
+539	1513		Territory_40	This is the really valuable description of Territory_40
+540	1513	62	Territory_41	This is the really valuable description of Territory_41
+541	1513	63	Territory_42	This is the really valuable description of Territory_42
+542	1514	66	Territory_43	This is the really valuable description of Territory_43
+543	1514	67	Territory_44	This is the really valuable description of Territory_44
+544	1514	68	Territory_45	This is the really valuable description of Territory_45
+545	1515	70	Territory_46	This is the really valuable description of Territory_46
+546	1515	71	Territory_47	This is the really valuable description of Territory_47
+547	1515	72	Territory_48	This is the really valuable description of Territory_48
+548	1516	75	Territory_49	This is the really valuable description of Territory_49
+549	1516	76	Territory_50	This is the really valuable description of Territory_50
+550	1516	77	Territory_51	This is the really valuable description of Territory_51
+551	1517	79	Territory_52	This is the really valuable description of Territory_52
+552	1517		Territory_53	This is the really valuable description of Territory_53
+553	1517	81	Territory_54	This is the really valuable description of Territory_54
+554	1518		Territory_55	This is the really valuable description of Territory_55
+555	1518		Territory_56	This is the really valuable description of Territory_56
+556	1518	86	Territory_57	This is the really valuable description of Territory_57
+557	1519	88	Territory_58	This is the really valuable description of Territory_58
+558	1519	89	Territory_59	This is the really valuable description of Territory_59
+559	1519	90	Territory_60	This is the really valuable description of Territory_60
+560	1520	93	Territory_61	This is the really valuable description of Territory_61
+561	1520	94	Territory_62	This is the really valuable description of Territory_62
+562	1520		Territory_63	This is the really valuable description of Territory_63
+563	1521	97	Territory_64	This is the really valuable description of Territory_64
+564	1521		Territory_65	This is the really valuable description of Territory_65
+565	1521	99	Territory_66	This is the really valuable description of Territory_66
+566	1522	102	Territory_67	This is the really valuable description of Territory_67
+567	1522	103	Territory_68	This is the really valuable description of Territory_68
+568	1522	104	Territory_69	This is the really valuable description of Territory_69
+569	1523	106	Territory_70	This is the really valuable description of Territory_70
+570	1523	107	Territory_71	This is the really valuable description of Territory_71
+571	1523	108	Territory_72	This is the really valuable description of Territory_72
+572	1524	111	Territory_73	This is the really valuable description of Territory_73
+573	1524	112	Territory_74	This is the really valuable description of Territory_74
+574	1524	113	Territory_75	This is the really valuable description of Territory_75
+575	1525		Territory_76	This is the really valuable description of Territory_76
+576	1525	116	Territory_77	This is the really valuable description of Territory_77
+577	1525	117	Territory_78	This is the really valuable description of Territory_78
+578	1526	120	Territory_79	This is the really valuable description of Territory_79
+579	1526	121	Territory_80	This is the really valuable description of Territory_80
+580	1526	122	Territory_81	This is the really valuable description of Territory_81
+581	1527	124	Territory_82	This is the really valuable description of Territory_82
+582	1527	125	Territory_83	This is the really valuable description of Territory_83
+583	1527	126	Territory_84	This is the really valuable description of Territory_84

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Team_05_M3_D3_ETL_Project_2700-Jessica</Name>
+    <LastWriteTime>2019-04-28T22:02:54.7529839Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>fkQRZ0wJ</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVafeA/GpcEWJt784V+wy4QAAAAACAAAAAAAQZgAAAAEAACAAAAAW1O8jp9Q4X3j2GFibqJ1+qb37RRv+IaFpJeCaKEeNtQAAAAAOgAAAAAIAACAAAADKH3nLW4FhFi/xDc2U1LarExXbH3/BNe7zvFuuVTGr+zAAAADVl6kYQvmsWqsNfE+uIGO1riL4auyzcstN4bN9qW8VSg/TNNWwuOC38vSH/rjxhh1AAAAAzT0KY7b0rhj/QAwRLnK7PdBngXiqBAY8FnpnM0hT7BSr2rMZ7K8OCXgIZM+hQ7faok1/WTr2wnPhIfmh2zudAg==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Package.dtsx</Name>
+      <LastWriteTime>2019-05-03T12:44:44.6275234Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>NlMgUNVS</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVafeA/GpcEWJt784V+wy4QAAAAACAAAAAAAQZgAAAAEAACAAAAADXQxkiUQMj30jMMsfWPCnRyLDl47sK0hGhJITmi9SIQAAAAAOgAAAAAIAACAAAADB7w0+F65blKtFuQXPEVfd1O5aI0BmE93M8x126xX7mDAAAADq66UIwKVIwpWfespTVpMo+NGEcP0SfV3RQcH8rM1/vdtG4Bx3CS9K9LQ/Yn9EiAxAAAAAHbP5bNyVSH3GKcd2JY2EEoWS3EavTn+D5rAwc9lGHzrFsBi1Ir8qpmApq0R40vvq0MWsOpZsIDzwXXv1M/CqKA==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>

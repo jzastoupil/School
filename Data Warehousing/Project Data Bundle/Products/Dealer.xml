@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <RECORD>
+  <FIELD ID="1" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="21"/>
+  <FIELD ID="2" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="15" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="3" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="60" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="4" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="60" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="5" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="60" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="6" xsi:type="CharTerm" TERMINATOR="\n" MAX_LENGTH="60" COLLATION="Latin1_General_BIN"/>
+ </RECORD>
+ <ROW>
+  <COLUMN SOURCE="1" NAME="DLR_ID" xsi:type="SQLBIGINT"/>
+  <COLUMN SOURCE="2" NAME="DLR_Code" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="3" NAME="DLR_Street" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="4" NAME="DLR_City" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="5" NAME="DLR_State" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="6" NAME="DLR_Zip" xsi:type="SQLVARYCHAR"/>
+ </ROW>
+</BCPFORMAT>

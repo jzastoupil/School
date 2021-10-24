@@ -1,0 +1,17 @@
+Make_ALL.cmd was started on Fri 05/17/2019 at  9:30:05.55 
+started \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\CreateLogin.ddl Fri 05/17/2019_ 9:30:15.23 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\CreateLogin.ddl 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\CreateLogin.ddl Fri 05/17/2019_ 9:30:19.43 
+started \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Corporate.sql Fri 05/17/2019_ 9:30:19.44 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Corporate.sql 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Corporate.sql Fri 05/17/2019_ 9:30:20.78 
+started \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Sales_Org.sql Fri 05/17/2019_ 9:30:20.79 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Sales_Org.sql 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Sales_Org.sql Fri 05/17/2019_ 9:30:21.83 
+started \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Products.sql Fri 05/17/2019_ 9:30:21.83 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Products.sql 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Products.sql Fri 05/17/2019_ 9:30:23.29 
+started \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Star_Schema.sql Fri 05/17/2019_ 9:30:23.30 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Star_Schema.sql 
+finished \Users\Jess\SQLScripts\Team_05_M3_Data_Bundle\Star_Schema.sql Fri 05/17/2019_ 9:30:24.59 
+Make_ALL.cmd was FINISHED on Fri 05/17/2019 at  9:37:41.11 

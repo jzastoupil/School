@@ -1,0 +1,28 @@
+@REM change the server, user and password as needed
+
+@if "%CORPORATE_SVR%"==""    set CORPORATE_SVR=%SA_SVR%
+@if "%SALES_ORG_SVR%"==""    set SALES_ORG_SVR=%SA_SVR%
+@if "%PRODUCTS_SVR%"==""     set PRODUCTS_SVR=%SA_SVR%
+@if "%STAR_SCHEMA_SVR%"==""  set STAR_SCHEMA_SVR=%SA_SVR%
+
+@if "%CORPORATE_SVR%"=="" set CORPORATE_SVR=.\GPSSQL
+@set CORPORATE_USR=SEIS732_Team_05_Corporate_User
+@set CORPORATE_PWD=2017_Roll_05
+
+@if "%SALES_ORG_SVR%"=="" set SALES_ORG_SVR=.\GPSSQL
+@set SALES_ORG_USR=SEIS732_Team_05_Sales_Org_User
+@set SALES_ORG_PWD=2017_Roll_05
+
+@if "%PRODUCTS_SVR%"=="" set PRODUCTS_SVR=.\GPSSQL
+@set PRODUCTS_USR=SEIS732_Team_05_Products_User
+@set PRODUCTS_PWD=2017_Roll_05
+
+@if "%STAR_SCHEMA_SVR%"=="" set STAR_SCHEMA_SVR=.\GPSSQL
+@set STAR_SCHEMA_USR=SEIS732_Team_05_Star_Schema_User
+@set STAR_SCHEMA_PWD=2017_Roll_05
+
+@echo SA_SVR = %SA_SVR%
+@echo CORPORATE_SVR = %CORPORATE_SVR%
+@echo SALES_ORG_SVR=%SALES_ORG_SVR%
+@echo PRODUCTS_SVR=%PRODUCTS_SVR%
+@echo STAR_SCHEMA_SVR=%STAR_SCHEMA_SVR%

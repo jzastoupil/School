@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <RECORD>
+  <FIELD ID="1" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="7"/>
+  <FIELD ID="2" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="10" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="3" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="10" COLLATION="Latin1_General_BIN"/>
+  <FIELD ID="4" xsi:type="CharTerm" TERMINATOR="\n" MAX_LENGTH="10" COLLATION="Latin1_General_BIN"/>
+ </RECORD>
+ <ROW>
+  <COLUMN SOURCE="1" NAME="RTG_ID" xsi:type="SQLSMALLINT"/>
+  <COLUMN SOURCE="2" NAME="RTG_Overall_Rating" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="3" NAME="RTG_Eff_Rating" xsi:type="SQLVARYCHAR"/>
+  <COLUMN SOURCE="4" NAME="RTG_Quality_Rating" xsi:type="SQLVARYCHAR"/>
+ </ROW>
+</BCPFORMAT>

@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Team_05_M3_D3_ETL_Project_2700-Jessica", "Team_05_M3_D3_ETL_Project_2700-Jessica\Team_05_M3_D3_ETL_Project_2700-Jessica.dtproj", "{41864B9D-467A-4218-9A1B-4EB762085B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41864B9D-467A-4218-9A1B-4EB762085B30}.Development|Default.ActiveCfg = Development
+		{41864B9D-467A-4218-9A1B-4EB762085B30}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

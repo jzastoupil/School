@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<BCPFORMAT xmlns="http://schemas.microsoft.com/sqlserver/2004/bulkload/format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <RECORD>
+  <FIELD ID="1" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="21"/>
+  <FIELD ID="2" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="21"/>
+  <FIELD ID="3" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="24"/>
+  <FIELD ID="4" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="24"/>
+  <FIELD ID="5" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="30"/>
+  <FIELD ID="6" xsi:type="CharTerm" TERMINATOR="\t" MAX_LENGTH="30"/>
+  <FIELD ID="7" xsi:type="CharTerm" TERMINATOR="\n" MAX_LENGTH="30"/>
+ </RECORD>
+ <ROW>
+  <COLUMN SOURCE="1" NAME="RV_Serial_Number" xsi:type="SQLBIGINT"/>
+  <COLUMN SOURCE="2" NAME="DLR_ID" xsi:type="SQLBIGINT"/>
+  <COLUMN SOURCE="3" NAME="Allocation_Date" xsi:type="SQLDATETIME"/>
+  <COLUMN SOURCE="4" NAME="Dealer_Receipt_Date" xsi:type="SQLDATETIME"/>
+  <COLUMN SOURCE="5" NAME="Processing_Fees" xsi:type="SQLMONEY"/>
+  <COLUMN SOURCE="6" NAME="Handling_Fees" xsi:type="SQLMONEY"/>
+  <COLUMN SOURCE="7" NAME="Transit_Fees" xsi:type="SQLMONEY"/>
+ </ROW>
+</BCPFORMAT>

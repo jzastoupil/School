@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Sales_Org"
+  DTS:DTSID="{5AF3FBCC-EAB6-4DF5-9CBD-54F58F77B1D9}"
+  DTS:CreationName="ADO.NET:SQL">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.\GPSSQL;User ID=SEIS732_Team_05_Sales_Org_User;Initial Catalog=SEIS732_Team_05_Sales_Org;Connect Timeout=30;Application Name=SSIS-{5AF3FBCC-EAB6-4DF5-9CBD-54F58F77B1D9}Sales_Org;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="5bvisQK0ug=="
+        p4:IV="Wv8eR377htY=" xmlns:p4="www.microsoft.com/SqlServer/SSIS">vVrzlmaNVhJcHVfc57waPW+VZ1wOvRd/bgAD5sysZSf/zhf4cLvWF+A59DWfXivhPiY2WNdjjpdJI2Js425kuKRLSsiQUY5Rw7qSq0O/vagZdfUi+wIB3nJjYLAwW7ZuK3OPsuQ9FXg11tJvok38UiDjvQlm6wgPggMoXDus++c=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

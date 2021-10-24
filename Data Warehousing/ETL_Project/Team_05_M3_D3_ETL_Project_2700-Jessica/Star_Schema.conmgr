@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Star_Schema"
+  DTS:DTSID="{F95154B9-5102-4C13-B137-5A7F1C22E40B}"
+  DTS:CreationName="ADO.NET:SQL">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.\GPSSQL;User ID=SEIS732_Team_05_Star_Schema_User;Initial Catalog=SEIS732_Team_05_Star_Schema;Connect Timeout=30;Application Name=SSIS-{F95154B9-5102-4C13-B137-5A7F1C22E40B}Star_Schema;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="aRTyLmShDg=="
+        p4:IV="9pDAdfw28dU=" xmlns:p4="www.microsoft.com/SqlServer/SSIS">6FhB2O+8k9RZRpCaLk9BYwLq6sgWCCisGCuTUEoays9QfYTy5tB4Mma85DphKKA/juJ1LFATFRotSReWGjsO5oD6mg0h4Pu+VTjOa801SlDsxjVm1PXVsjk7QpWeswozO7/UODk9QKBLYNBqieLvRRPa//RUQMR2wGw/TzQG9yY=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

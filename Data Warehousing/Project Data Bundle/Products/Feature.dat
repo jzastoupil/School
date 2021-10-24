@@ -1,0 +1,378 @@
+3000	1000	AirConditioning	Small	This is a useful description of the value:Small
+3001	1000	Bathroom	Full	This is a useful description of the value:Full
+3002	1000	Beds	Styrofoam	This is a useful description of the value:Styrofoam
+3003	1000	Carpet	Shag	This is a useful description of the value:Shag
+3004	1000	Electric	75 Amp Service	This is a useful description of the value:75 Amp Service
+3005	1000	EntertainmentPackage	High-Def	This is a useful description of the value:High-Def
+3006	1000	Furnace	Heat Pump	This is a useful description of the value:Heat Pump
+3007	1000	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3008	1000	Generator	Standard	This is a useful description of the value:Standard
+3009	1000	Kitchen	Partial	This is a useful description of the value:Partial
+3010	1000	NumSleeping	7	This is a useful description of the value:7
+3011	1000	OnboardWater	None	This is a useful description of the value:None
+3012	1000	Seats	Naugahyde	This is a useful description of the value:Naugahyde
+3013	1000	SlideOuts	1 Bedroom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, DiningRoom, and Kitchen
+3014	1000	SolarPanels	Single	This is a useful description of the value:Single
+3015	1000	StorageCapacity	Economy	This is a useful description of the value:Economy
+3016	1000	TowHitch	Back Only	This is a useful description of the value:Back Only
+3017	1000	Walls	Insulated	This is a useful description of the value:Insulated
+3018	1001	AirConditioning	None	This is a useful description of the value:None
+3019	1001	Bathroom	Full	This is a useful description of the value:Full
+3020	1001	Beds	Styrofoam	This is a useful description of the value:Styrofoam
+3021	1001	Carpet	Plush	This is a useful description of the value:Plush
+3022	1001	Electric	75 Amp Service	This is a useful description of the value:75 Amp Service
+3023	1001	EntertainmentPackage	High-Def	This is a useful description of the value:High-Def
+3024	1001	Furnace	Heat Pump	This is a useful description of the value:Heat Pump
+3025	1001	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3026	1001	Generator	None	This is a useful description of the value:None
+3027	1001	Kitchen	None	This is a useful description of the value:None
+3028	1001	NumSleeping	1	This is a useful description of the value:1
+3029	1001	OnboardWater	25 Gallon	This is a useful description of the value:25 Gallon
+3030	1001	Seats	Stain-Guarded Cloth	This is a useful description of the value:Stain-Guarded Cloth
+3031	1001	SlideOuts	3 Bedrooms, DiningRoom, and Kitchen	This is a useful description of the value:3 Bedrooms, DiningRoom, and Kitchen
+3032	1001	SolarPanels	2nd Generation	This is a useful description of the value:2nd Generation
+3033	1001	StorageCapacity	Large	This is a useful description of the value:Large
+3034	1001	TowHitch	Heavy Duty Front Only	This is a useful description of the value:Heavy Duty Front Only
+3035	1001	Walls	UltraLight	This is a useful description of the value:UltraLight
+3036	1002	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3037	1002	Bathroom	Full	This is a useful description of the value:Full
+3038	1002	Beds	Styrofoam	This is a useful description of the value:Styrofoam
+3039	1002	Carpet	Nylon	This is a useful description of the value:Nylon
+3040	1002	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3041	1002	EntertainmentPackage	High-Def	This is a useful description of the value:High-Def
+3042	1002	Furnace	Medium	This is a useful description of the value:Medium
+3043	1002	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3044	1002	Generator	Large	This is a useful description of the value:Large
+3045	1002	Kitchen	Bakery	This is a useful description of the value:Bakery
+3046	1002	NumSleeping	5	This is a useful description of the value:5
+3047	1002	OnboardWater	125 Gallon	This is a useful description of the value:125 Gallon
+3048	1002	Seats	Faux Naugahyde	This is a useful description of the value:Faux Naugahyde
+3049	1002	SlideOuts	1 Bedroom, and Kitchen	This is a useful description of the value:1 Bedroom, and Kitchen
+3050	1002	SolarPanels	Triple	This is a useful description of the value:Triple
+3051	1002	StorageCapacity	Expanded	This is a useful description of the value:Expanded
+3052	1002	TowHitch	Front Only	This is a useful description of the value:Front Only
+3053	1002	Walls	WhiteBoard	This is a useful description of the value:WhiteBoard
+3054	1003	AirConditioning	None	This is a useful description of the value:None
+3055	1003	Bathroom	Full	This is a useful description of the value:Full
+3056	1003	Beds	Super Styrofoam	This is a useful description of the value:Super Styrofoam
+3057	1003	Carpet	Polyester	This is a useful description of the value:Polyester
+3058	1003	Electric	60 Amp Service	This is a useful description of the value:60 Amp Service
+3059	1003	EntertainmentPackage	Surround Sound	This is a useful description of the value:Surround Sound
+3060	1003	Furnace	Standard	This is a useful description of the value:Standard
+3061	1003	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3062	1003	Generator	Mini	This is a useful description of the value:Mini
+3063	1003	Kitchen	Microwave Only	This is a useful description of the value:Microwave Only
+3064	1003	NumSleeping	7	This is a useful description of the value:7
+3065	1003	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3066	1003	Seats	I can not beleive its not Naugahyde(R)	This is a useful description of the value:I can not beleive its not Naugahyde(R)
+3067	1003	SlideOuts	1 Bedroom, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, LivingRoom, DiningRoom, and Kitchen
+3068	1003	SolarPanels	Double	This is a useful description of the value:Double
+3069	1003	StorageCapacity	Ehanced	This is a useful description of the value:Ehanced
+3070	1003	TowHitch	Front and Back	This is a useful description of the value:Front and Back
+3071	1003	Walls	Reinforced	This is a useful description of the value:Reinforced
+3072	1004	AirConditioning	Small	This is a useful description of the value:Small
+3073	1004	Bathroom	None	This is a useful description of the value:None
+3074	1004	Beds	AirMattress	This is a useful description of the value:AirMattress
+3075	1004	Carpet	None	This is a useful description of the value:None
+3076	1004	Electric	None	This is a useful description of the value:None
+3077	1004	EntertainmentPackage	None	This is a useful description of the value:None
+3078	1004	Furnace	None	This is a useful description of the value:None
+3079	1004	GasTank	Standard	This is a useful description of the value:Standard
+3080	1004	Generator	Micro	This is a useful description of the value:Micro
+3081	1004	Kitchen	Professional	This is a useful description of the value:Professional
+3082	1004	NumSleeping	7	This is a useful description of the value:7
+3083	1004	OnboardWater	None	This is a useful description of the value:None
+3084	1004	Seats	Inflatable	This is a useful description of the value:Inflatable
+3085	1004	SlideOuts	Kitchen	This is a useful description of the value:Kitchen
+3086	1004	SolarPanels	Triple	This is a useful description of the value:Triple
+3087	1004	StorageCapacity	Restricted	This is a useful description of the value:Restricted
+3088	1004	TowHitch	Front Only	This is a useful description of the value:Front Only
+3089	1004	Walls	Unfinished	This is a useful description of the value:Unfinished
+3090	1005	AirConditioning	Small	This is a useful description of the value:Small
+3091	1005	Bathroom	Full	This is a useful description of the value:Full
+3092	1005	Beds	Super Styrofoam	This is a useful description of the value:Super Styrofoam
+3093	1005	Carpet	Plush	This is a useful description of the value:Plush
+3094	1005	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3095	1005	EntertainmentPackage	Surround Sound	This is a useful description of the value:Surround Sound
+3096	1005	Furnace	Medium	This is a useful description of the value:Medium
+3097	1005	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3098	1005	Generator	Micro	This is a useful description of the value:Micro
+3099	1005	Kitchen	Full Range	This is a useful description of the value:Full Range
+3100	1005	NumSleeping	5	This is a useful description of the value:5
+3101	1005	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3102	1005	Seats	Naugahyde	This is a useful description of the value:Naugahyde
+3103	1005	SlideOuts	1 Bedroom, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, LivingRoom, DiningRoom, and Kitchen
+3104	1005	SolarPanels	Double	This is a useful description of the value:Double
+3105	1005	StorageCapacity	Economy	This is a useful description of the value:Economy
+3106	1005	TowHitch	Front and Back	This is a useful description of the value:Front and Back
+3107	1005	Walls	Reinforced	This is a useful description of the value:Reinforced
+3108	1006	AirConditioning	None	This is a useful description of the value:None
+3109	1006	Bathroom	Full	This is a useful description of the value:Full
+3110	1006	Beds	Styrofoam	This is a useful description of the value:Styrofoam
+3111	1006	Carpet	Patterned	This is a useful description of the value:Patterned
+3112	1006	Electric	60 Amp Service	This is a useful description of the value:60 Amp Service
+3113	1006	EntertainmentPackage	High-Def	This is a useful description of the value:High-Def
+3114	1006	Furnace	Standard	This is a useful description of the value:Standard
+3115	1006	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3116	1006	Generator	Mini	This is a useful description of the value:Mini
+3117	1006	Kitchen	Chef-Ready	This is a useful description of the value:Chef-Ready
+3118	1006	NumSleeping	5	This is a useful description of the value:5
+3119	1006	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3120	1006	Seats	Naugahyde	This is a useful description of the value:Naugahyde
+3121	1006	SlideOuts	3 Bedrooms, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:3 Bedrooms, LivingRoom, DiningRoom, and Kitchen
+3122	1006	SolarPanels	None	This is a useful description of the value:None
+3123	1006	StorageCapacity	Economy	This is a useful description of the value:Economy
+3124	1006	TowHitch	None	This is a useful description of the value:None
+3125	1006	Walls	Plastered	This is a useful description of the value:Plastered
+3126	1007	AirConditioning	Small	This is a useful description of the value:Small
+3127	1007	Bathroom	Half	This is a useful description of the value:Half
+3128	1007	Beds	Straw	This is a useful description of the value:Straw
+3129	1007	Carpet	Textured Plush	This is a useful description of the value:Textured Plush
+3130	1007	Electric	75 Amp Service	This is a useful description of the value:75 Amp Service
+3131	1007	EntertainmentPackage	Basic	This is a useful description of the value:Basic
+3132	1007	Furnace	Heat Pump	This is a useful description of the value:Heat Pump
+3133	1007	GasTank	Large	This is a useful description of the value:Large
+3134	1007	Generator	Standard	This is a useful description of the value:Standard
+3135	1007	Kitchen	Full Range	This is a useful description of the value:Full Range
+3136	1007	NumSleeping	1	This is a useful description of the value:1
+3137	1007	OnboardWater	125 Gallon	This is a useful description of the value:125 Gallon
+3138	1007	Seats	Vinyl	This is a useful description of the value:Vinyl
+3139	1007	SlideOuts	DiningRoom, and Kitchen	This is a useful description of the value:DiningRoom, and Kitchen
+3140	1007	SolarPanels	Double	This is a useful description of the value:Double
+3141	1007	StorageCapacity	Limited	This is a useful description of the value:Limited
+3142	1007	TowHitch	Front and Back	This is a useful description of the value:Front and Back
+3143	1007	Walls	WhiteBoard	This is a useful description of the value:WhiteBoard
+3144	1008	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3145	1008	Bathroom	Half	This is a useful description of the value:Half
+3146	1008	Beds	Straw	This is a useful description of the value:Straw
+3147	1008	Carpet	Low Nap	This is a useful description of the value:Low Nap
+3148	1008	Electric	None	This is a useful description of the value:None
+3149	1008	EntertainmentPackage	Basic	This is a useful description of the value:Basic
+3150	1008	Furnace	None	This is a useful description of the value:None
+3151	1008	GasTank	Large	This is a useful description of the value:Large
+3152	1008	Generator	Large	This is a useful description of the value:Large
+3153	1008	Kitchen	Full	This is a useful description of the value:Full
+3154	1008	NumSleeping	2	This is a useful description of the value:2
+3155	1008	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3156	1008	Seats	Cloth	This is a useful description of the value:Cloth
+3157	1008	SlideOuts	2 Bedrooms, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:2 Bedrooms, LivingRoom, DiningRoom, and Kitchen
+3158	1008	SolarPanels	Enhanced	This is a useful description of the value:Enhanced
+3159	1008	StorageCapacity	Basic	This is a useful description of the value:Basic
+3160	1008	TowHitch	Heavy Duty Front and Heavy Duty Back	This is a useful description of the value:Heavy Duty Front and Heavy Duty Back
+3161	1008	Walls	Plastered	This is a useful description of the value:Plastered
+3162	1009	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3163	1009	Bathroom	Three Quarter	This is a useful description of the value:Three Quarter
+3164	1009	Beds	Memory Foam	This is a useful description of the value:Memory Foam
+3165	1009	Carpet	Polyester	This is a useful description of the value:Polyester
+3166	1009	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3167	1009	EntertainmentPackage	Enhanced	This is a useful description of the value:Enhanced
+3168	1009	Furnace	Medium	This is a useful description of the value:Medium
+3169	1009	GasTank	Extra Large	This is a useful description of the value:Extra Large
+3170	1009	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3171	1009	Kitchen	Light-Duty	This is a useful description of the value:Light-Duty
+3172	1009	NumSleeping	1	This is a useful description of the value:1
+3173	1009	OnboardWater	25 Gallon	This is a useful description of the value:25 Gallon
+3174	1009	Seats	Styrofoam	This is a useful description of the value:Styrofoam
+3175	1009	SlideOuts	1 Bedroom	This is a useful description of the value:1 Bedroom
+3176	1009	SolarPanels	None	This is a useful description of the value:None
+3177	1009	StorageCapacity	Elastic	This is a useful description of the value:Elastic
+3178	1009	TowHitch	None	This is a useful description of the value:None
+3179	1009	Walls	UltraLight	This is a useful description of the value:UltraLight
+3180	1010	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3181	1010	Bathroom	Half	This is a useful description of the value:Half
+3182	1010	Beds	Coil Spring	This is a useful description of the value:Coil Spring
+3183	1010	Carpet	Carpet Squares	This is a useful description of the value:Carpet Squares
+3184	1010	Electric	75 Amp Service	This is a useful description of the value:75 Amp Service
+3185	1010	EntertainmentPackage	Standard	This is a useful description of the value:Standard
+3186	1010	Furnace	Heat Pump	This is a useful description of the value:Heat Pump
+3187	1010	GasTank	Large	This is a useful description of the value:Large
+3188	1010	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3189	1010	Kitchen	Bakery	This is a useful description of the value:Bakery
+3190	1010	NumSleeping	5	This is a useful description of the value:5
+3191	1010	OnboardWater	25 Gallon	This is a useful description of the value:25 Gallon
+3192	1010	Seats	Cloth	This is a useful description of the value:Cloth
+3193	1010	SlideOuts	DiningRoom, and Kitchen	This is a useful description of the value:DiningRoom, and Kitchen
+3194	1010	SolarPanels	Double	This is a useful description of the value:Double
+3195	1010	StorageCapacity	Basic	This is a useful description of the value:Basic
+3196	1010	TowHitch	Front and Back	This is a useful description of the value:Front and Back
+3197	1010	Walls	Painted	This is a useful description of the value:Painted
+3198	1011	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3199	1011	Bathroom	Half	This is a useful description of the value:Half
+3200	1011	Beds	Straw	This is a useful description of the value:Straw
+3201	1011	Carpet	Frieze	This is a useful description of the value:Frieze
+3202	1011	Electric	100 Amp Service	This is a useful description of the value:100 Amp Service
+3203	1011	EntertainmentPackage	Basic	This is a useful description of the value:Basic
+3204	1011	Furnace	Deluxe	This is a useful description of the value:Deluxe
+3205	1011	GasTank	Large	This is a useful description of the value:Large
+3206	1011	Generator	Large	This is a useful description of the value:Large
+3207	1011	Kitchen	Light-Duty	This is a useful description of the value:Light-Duty
+3208	1011	NumSleeping	7	This is a useful description of the value:7
+3209	1011	OnboardWater	125 Gallon	This is a useful description of the value:125 Gallon
+3210	1011	Seats	Faux Naugahyde	This is a useful description of the value:Faux Naugahyde
+3211	1011	SlideOuts	1 Bedroom, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, LivingRoom, DiningRoom, and Kitchen
+3212	1011	SolarPanels	Double	This is a useful description of the value:Double
+3213	1011	StorageCapacity	Expanded	This is a useful description of the value:Expanded
+3214	1011	TowHitch	Front and Back	This is a useful description of the value:Front and Back
+3215	1011	Walls	Panneled	This is a useful description of the value:Panneled
+3216	1012	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3217	1012	Bathroom	Three Quarter	This is a useful description of the value:Three Quarter
+3218	1012	Beds	Water Bed	This is a useful description of the value:Water Bed
+3219	1012	Carpet	Berber	This is a useful description of the value:Berber
+3220	1012	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3221	1012	EntertainmentPackage	Home Theater	This is a useful description of the value:Home Theater
+3222	1012	Furnace	Medium	This is a useful description of the value:Medium
+3223	1012	GasTank	Extra Large	This is a useful description of the value:Extra Large
+3224	1012	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3225	1012	Kitchen	Bakery	This is a useful description of the value:Bakery
+3226	1012	NumSleeping	5	This is a useful description of the value:5
+3227	1012	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3228	1012	Seats	I can not beleive its not Naugahyde(R)	This is a useful description of the value:I can not beleive its not Naugahyde(R)
+3229	1012	SlideOuts	1 Bedroom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, DiningRoom, and Kitchen
+3230	1012	SolarPanels	Single	This is a useful description of the value:Single
+3231	1012	StorageCapacity	Ehanced	This is a useful description of the value:Ehanced
+3232	1012	TowHitch	Back Only	This is a useful description of the value:Back Only
+3233	1012	Walls	Plastered	This is a useful description of the value:Plastered
+3234	1013	AirConditioning	None	This is a useful description of the value:None
+3235	1013	Bathroom	None	This is a useful description of the value:None
+3236	1013	Beds	AirMattress	This is a useful description of the value:AirMattress
+3237	1013	Carpet	Frieze	This is a useful description of the value:Frieze
+3238	1013	Electric	100 Amp Service	This is a useful description of the value:100 Amp Service
+3239	1013	EntertainmentPackage	None	This is a useful description of the value:None
+3240	1013	Furnace	Deluxe	This is a useful description of the value:Deluxe
+3241	1013	GasTank	Standard	This is a useful description of the value:Standard
+3242	1013	Generator	None	This is a useful description of the value:None
+3243	1013	Kitchen	Microwave Only	This is a useful description of the value:Microwave Only
+3244	1013	NumSleeping	7	This is a useful description of the value:7
+3245	1013	OnboardWater	125 Gallon	This is a useful description of the value:125 Gallon
+3246	1013	Seats	Naugahyde	This is a useful description of the value:Naugahyde
+3247	1013	SlideOuts	LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:LivingRoom, DiningRoom, and Kitchen
+3248	1013	SolarPanels	Enhanced	This is a useful description of the value:Enhanced
+3249	1013	StorageCapacity	Economy	This is a useful description of the value:Economy
+3250	1013	TowHitch	Heavy Duty Front and Heavy Duty Back	This is a useful description of the value:Heavy Duty Front and Heavy Duty Back
+3251	1013	Walls	Panneled	This is a useful description of the value:Panneled
+3252	1014	AirConditioning	None	This is a useful description of the value:None
+3253	1014	Bathroom	Three Quarter	This is a useful description of the value:Three Quarter
+3254	1014	Beds	Water Bed	This is a useful description of the value:Water Bed
+3255	1014	Carpet	Plush	This is a useful description of the value:Plush
+3256	1014	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3257	1014	EntertainmentPackage	Home Theater	This is a useful description of the value:Home Theater
+3258	1014	Furnace	Medium	This is a useful description of the value:Medium
+3259	1014	GasTank	Extra Large	This is a useful description of the value:Extra Large
+3260	1014	Generator	None	This is a useful description of the value:None
+3261	1014	Kitchen	Chef-Ready	This is a useful description of the value:Chef-Ready
+3262	1014	NumSleeping	2	This is a useful description of the value:2
+3263	1014	OnboardWater	50 Gallon	This is a useful description of the value:50 Gallon
+3264	1014	Seats	Styrofoam	This is a useful description of the value:Styrofoam
+3265	1014	SlideOuts	None	This is a useful description of the value:None
+3266	1014	SolarPanels	2nd Generation	This is a useful description of the value:2nd Generation
+3267	1014	StorageCapacity	Elastic	This is a useful description of the value:Elastic
+3268	1014	TowHitch	Heavy Duty Front Only	This is a useful description of the value:Heavy Duty Front Only
+3269	1014	Walls	Sound-Proofed	This is a useful description of the value:Sound-Proofed
+3270	1015	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3271	1015	Bathroom	Full	This is a useful description of the value:Full
+3272	1015	Beds	Super Styrofoam	This is a useful description of the value:Super Styrofoam
+3273	1015	Carpet	Shag	This is a useful description of the value:Shag
+3274	1015	Electric	100 Amp Service	This is a useful description of the value:100 Amp Service
+3275	1015	EntertainmentPackage	Surround Sound	This is a useful description of the value:Surround Sound
+3276	1015	Furnace	Deluxe	This is a useful description of the value:Deluxe
+3277	1015	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3278	1015	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3279	1015	Kitchen	Full	This is a useful description of the value:Full
+3280	1015	NumSleeping	7	This is a useful description of the value:7
+3281	1015	OnboardWater	125 Gallon	This is a useful description of the value:125 Gallon
+3282	1015	Seats	Inflatable	This is a useful description of the value:Inflatable
+3283	1015	SlideOuts	1 Bedroom, and Kitchen	This is a useful description of the value:1 Bedroom, and Kitchen
+3284	1015	SolarPanels	Triple	This is a useful description of the value:Triple
+3285	1015	StorageCapacity	Restricted	This is a useful description of the value:Restricted
+3286	1015	TowHitch	Front Only	This is a useful description of the value:Front Only
+3287	1015	Walls	WhiteBoard	This is a useful description of the value:WhiteBoard
+3288	1016	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3289	1016	Bathroom	Full	This is a useful description of the value:Full
+3290	1016	Beds	Super Styrofoam	This is a useful description of the value:Super Styrofoam
+3291	1016	Carpet	Wall to Wall	This is a useful description of the value:Wall to Wall
+3292	1016	Electric	100 Amp Service	This is a useful description of the value:100 Amp Service
+3293	1016	EntertainmentPackage	Surround Sound	This is a useful description of the value:Surround Sound
+3294	1016	Furnace	Deluxe	This is a useful description of the value:Deluxe
+3295	1016	GasTank	Low-Weight	This is a useful description of the value:Low-Weight
+3296	1016	Generator	Large	This is a useful description of the value:Large
+3297	1016	Kitchen	Bakery	This is a useful description of the value:Bakery
+3298	1016	NumSleeping	2	This is a useful description of the value:2
+3299	1016	OnboardWater	25 Gallon	This is a useful description of the value:25 Gallon
+3300	1016	Seats	Styrofoam	This is a useful description of the value:Styrofoam
+3301	1016	SlideOuts	3 Bedrooms, LivingRoom, DiningRoom, and Kitchen	This is a useful description of the value:3 Bedrooms, LivingRoom, DiningRoom, and Kitchen
+3302	1016	SolarPanels	None	This is a useful description of the value:None
+3303	1016	StorageCapacity	Elastic	This is a useful description of the value:Elastic
+3304	1016	TowHitch	None	This is a useful description of the value:None
+3305	1016	Walls	Painted	This is a useful description of the value:Painted
+3306	1017	AirConditioning	None	This is a useful description of the value:None
+3307	1017	Bathroom	Half	This is a useful description of the value:Half
+3308	1017	Beds	Coil Spring	This is a useful description of the value:Coil Spring
+3309	1017	Carpet	Frieze	This is a useful description of the value:Frieze
+3310	1017	Electric	100 Amp Service	This is a useful description of the value:100 Amp Service
+3311	1017	EntertainmentPackage	Standard	This is a useful description of the value:Standard
+3312	1017	Furnace	Deluxe	This is a useful description of the value:Deluxe
+3313	1017	GasTank	Large	This is a useful description of the value:Large
+3314	1017	Generator	None	This is a useful description of the value:None
+3315	1017	Kitchen	Microwave Only	This is a useful description of the value:Microwave Only
+3316	1017	NumSleeping	5	This is a useful description of the value:5
+3317	1017	OnboardWater	50 Gallon	This is a useful description of the value:50 Gallon
+3318	1017	Seats	Plastic	This is a useful description of the value:Plastic
+3319	1017	SlideOuts	1 Bedroom, and Kitchen	This is a useful description of the value:1 Bedroom, and Kitchen
+3320	1017	SolarPanels	Triple	This is a useful description of the value:Triple
+3321	1017	StorageCapacity	Extended	This is a useful description of the value:Extended
+3322	1017	TowHitch	Front Only	This is a useful description of the value:Front Only
+3323	1017	Walls	Sound-Proofed	This is a useful description of the value:Sound-Proofed
+3324	1018	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3325	1018	Bathroom	Half	This is a useful description of the value:Half
+3326	1018	Beds	Coil Spring	This is a useful description of the value:Coil Spring
+3327	1018	Carpet	Textured Plush	This is a useful description of the value:Textured Plush
+3328	1018	Electric	200 Amp Service	This is a useful description of the value:200 Amp Service
+3329	1018	EntertainmentPackage	Standard	This is a useful description of the value:Standard
+3330	1018	Furnace	Medium	This is a useful description of the value:Medium
+3331	1018	GasTank	Large	This is a useful description of the value:Large
+3332	1018	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3333	1018	Kitchen	Full	This is a useful description of the value:Full
+3334	1018	NumSleeping	2	This is a useful description of the value:2
+3335	1018	OnboardWater	25 Gallon	This is a useful description of the value:25 Gallon
+3336	1018	Seats	Vinyl	This is a useful description of the value:Vinyl
+3337	1018	SlideOuts	1 Bedroom	This is a useful description of the value:1 Bedroom
+3338	1018	SolarPanels	None	This is a useful description of the value:None
+3339	1018	StorageCapacity	Limited	This is a useful description of the value:Limited
+3340	1018	TowHitch	None	This is a useful description of the value:None
+3341	1018	Walls	UltraLight	This is a useful description of the value:UltraLight
+3342	1019	AirConditioning	Central-Air	This is a useful description of the value:Central-Air
+3343	1019	Bathroom	Three Quarter	This is a useful description of the value:Three Quarter
+3344	1019	Beds	Water Bed	This is a useful description of the value:Water Bed
+3345	1019	Carpet	Polyester	This is a useful description of the value:Polyester
+3346	1019	Electric	None	This is a useful description of the value:None
+3347	1019	EntertainmentPackage	Home Theater	This is a useful description of the value:Home Theater
+3348	1019	Furnace	None	This is a useful description of the value:None
+3349	1019	GasTank	Extra Large	This is a useful description of the value:Extra Large
+3350	1019	Generator	Super Surge Protected	This is a useful description of the value:Super Surge Protected
+3351	1019	Kitchen	Light-Duty	This is a useful description of the value:Light-Duty
+3352	1019	NumSleeping	1	This is a useful description of the value:1
+3353	1019	OnboardWater	75 Gallon	This is a useful description of the value:75 Gallon
+3354	1019	Seats	Faux Naugahyde	This is a useful description of the value:Faux Naugahyde
+3355	1019	SlideOuts	1 Bedroom, and Kitchen	This is a useful description of the value:1 Bedroom, and Kitchen
+3356	1019	SolarPanels	Triple	This is a useful description of the value:Triple
+3357	1019	StorageCapacity	Expanded	This is a useful description of the value:Expanded
+3358	1019	TowHitch	Front Only	This is a useful description of the value:Front Only
+3359	1019	Walls	Plastered	This is a useful description of the value:Plastered
+3360	1020	AirConditioning	None	This is a useful description of the value:None
+3361	1020	Bathroom	None	This is a useful description of the value:None
+3362	1020	Beds	AirMattress	This is a useful description of the value:AirMattress
+3363	1020	Carpet	Nylon	This is a useful description of the value:Nylon
+3364	1020	Electric	None	This is a useful description of the value:None
+3365	1020	EntertainmentPackage	None	This is a useful description of the value:None
+3366	1020	Furnace	None	This is a useful description of the value:None
+3367	1020	GasTank	Standard	This is a useful description of the value:Standard
+3368	1020	Generator	None	This is a useful description of the value:None
+3369	1020	Kitchen	None	This is a useful description of the value:None
+3370	1020	NumSleeping	5	This is a useful description of the value:5
+3371	1020	OnboardWater	None	This is a useful description of the value:None
+3372	1020	Seats	I can not beleive its not Naugahyde(R)	This is a useful description of the value:I can not beleive its not Naugahyde(R)
+3373	1020	SlideOuts	1 Bedroom, DiningRoom, and Kitchen	This is a useful description of the value:1 Bedroom, DiningRoom, and Kitchen
+3374	1020	SolarPanels	Single	This is a useful description of the value:Single
+3375	1020	StorageCapacity	Ehanced	This is a useful description of the value:Ehanced
+3376	1020	TowHitch	Back Only	This is a useful description of the value:Back Only
+3377	1020	Walls	Insulated	This is a useful description of the value:Insulated

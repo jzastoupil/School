@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="GPSSQL_SEIS732_Team_05_Star_Schema_User"
+  DTS:DTSID="{6CE5F2A0-7DC6-4619-AC6F-2245EDBABD06}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.\GPSSQL;User ID=SEIS732_Team_05_Star_Schema_User;Initial Catalog=SEIS732_Team_05_Star_Schema;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="2n9tLoAxLw=="
+        p4:IV="JhZnvrXKLvQ=" xmlns:p4="www.microsoft.com/SqlServer/SSIS">27ZptQTq59arpCaRyIXj21AXqTOJK/IleE1fdwG/i53idpwV2p+aKZTA2IXEb+MySC+ODo+CUNp5GjVRTl5QT8/NU0IBFH8ZweTt2y/Kh6teN8/lJzqY1NxWiRV1tlRJ4Ug4LW6sw4Ob1QXJ9BSjVUMXl0mMVQD0NQik/JeRYpw=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

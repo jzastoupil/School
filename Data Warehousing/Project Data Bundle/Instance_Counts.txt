@@ -1,0 +1,34 @@
+
+Counts for SALES_ORG_MODEL model
+	420 instances for Entity : Dealer
+	28 instances for Entity : Sales_Area
+	14 instances for Entity : Sales_District
+	414 instances for Entity : Micropolitan_Statistical_Area
+	126 instances for Entity : Sales_Mgr
+	84 instances for Entity : Sales_Territory
+	113 instances for Entity : Metropolitan_Statistical_Area
+
+Counts for CORPORATE_MODEL model
+	171 instances for Entity : Owner
+	347 instances for Entity : Owner_Address
+	420 instances for Entity : Dealership
+	88 instances for Entity : Plant
+	88 instances for Entity : Ratings
+	125 instances for Entity : Website
+	445 instances for Entity : Branch
+	5 instances for Entity : Department
+
+Counts for PRODUCTS_MODEL model
+	40 instances for Entity : IncentiveProgram
+	116 instances for Entity : Warehouse
+	43884 instances for Entity : Vehicle_Type
+	78441 instances for Entity : Unallocated
+	378 instances for Entity : Feature
+	908334 instances for Entity : Allocated
+	986775 instances for Entity : RRV_Instance
+	830055 instances for Entity : Sold
+	21 instances for Entity : FeatureSet
+	44 instances for Entity : Color
+	481524 instances for Entity : Customer
+	420 instances for Entity : Dealer
+	30 instances for Entity : MMC

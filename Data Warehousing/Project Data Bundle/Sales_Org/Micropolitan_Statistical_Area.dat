@@ -1,0 +1,414 @@
+1	194	.Auburn-Opelika, AL	475796
+2	142	.Birmingham-Hoover, AL	56598
+3	142	.Cullman, AL	92144
+4	380	.Daphne-Fairhope, AL	79220
+5	290	.Decatur, AL	1500741
+6	222	.Dothan, AL	125834
+7	222	.Enterprise-Ozark, AL	1500741
+8	380	.Daphne-Fairhope, AL	188831
+9	142	.Birmingham-Hoover, AL	156763
+10	290	.Huntsville, AL	156763
+11	380	.Mobile, AL	1500741
+12	194	.Auburn-Opelika, AL	29641
+13	222	.Enterprise-Ozark, AL	39858
+14	194	.Tuskegee, AL	501774
+15	122	.Valley, AL	9098316
+16	340	.Little Rock-North Little Rock, AR	97296
+17	340	.Little Rock-North Little Rock, AR	148337
+18	340	.Pine Bluff, AR	85897
+19	340	.Searcy, AR	55225
+20	472	.Sacramento--Arden-Arcade--Roseville, CA	201602
+21	472	.Sacramento--Arden-Arcade--Roseville, CA	3043878
+22	488	.Vallejo-Fairfield, CA	231969
+23	488	.San Francisco-Oakland-Fremont, CA	49405
+24	260	.Fresno, CA	3043878
+25	472	.Truckee-Grass Valley, CA	207355
+26	348	.Los Angeles-Long Beach-Santa Ana, CA	71558
+27	348	.Los Angeles-Long Beach-Santa Ana, CA	231969
+28	260	.Madera, CA	3043878
+29	488	.Napa, CA	102997
+30	488	.San Francisco-Oakland-Fremont, CA	230014
+31	348	.Riverside-San Bernardino-Ontario, CA	68470
+32	348	.Oxnard-Thousand Oaks-Ventura, CA	4796183
+33	488	.Santa Rosa-Petaluma, CA	968858
+34	348	.Riverside-San Bernardino-Ontario, CA	442656
+35	472	.Sacramento--Arden-Arcade--Roseville, CA	442656
+36	348	.Riverside-San Bernardino-Ontario, CA	42745
+37	488	.San Francisco-Oakland-Fremont, CA	174706
+38	488	.San Jose-Sunnyvale-Santa Clara, CA	4715407
+39	348	.Los Angeles-Long Beach-Santa Ana, CA	20082
+40	488	.San Jose-Sunnyvale-Santa Clara, CA	27026
+41	488	.Santa Cruz-Watsonville, CA	62110
+42	488	.Santa Rosa-Petaluma, CA	249700
+43	488	.San Jose-Sunnyvale-Santa Clara, CA	194042
+44	348	.Oxnard-Thousand Oaks-Ventura, CA	22716
+45	472	.Truckee-Grass Valley, CA	31963
+46	488	.Vallejo-Fairfield, CA	46659
+47	348	.Oxnard-Thousand Oaks-Ventura, CA	61758
+48	488	.Santa Cruz-Watsonville, CA	4715407
+49	216	.Denver-Aurora, CO	335227
+50	216	.Boulder, CO	47909
+51	216	.Denver-Aurora, CO	36363
+52	408	.Bridgeport-Stamford-Norwalk, CT	5161544
+53	278	.Hartford-West Hartford-East Hartford, CT	5161544
+54	278	.Hartford-West Hartford-East Hartford, CT	403280
+55	408	.New Haven-Milford, CT	335227
+56	408	.New Haven-Milford, CT	4715407
+57	408	.Bridgeport-Stamford-Norwalk, CT	37957
+58	408	.Bridgeport-Stamford-Norwalk, CT	73277
+59	408	.Torrington, CT	5161544
+60	278	.Hartford-West Hartford-East Hartford, CT	71170
+61	278	.Willimantic, CT	33565
+62	548	.Washington-Arlington-Alexandria, DC-VA-MD-WV	1311789
+63	428	.Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	1311789
+64	214	.Deltona-Daytona Beach-Ormond Beach, FL	123081
+65	214	.Deltona-Daytona Beach-Ormond Beach, FL	39854
+66	422	.Orlando, FL	616079
+67	214	.Deltona-Daytona Beach-Ormond Beach, FL	230014
+68	214	.Palm Coast, FL	181607
+69	422	.The Villages, FL	51910
+70	122	.Atlanta-Sandy Springs-Marietta, GA	1311789
+71	122	.Cedartown, GA	69498
+72	194	.Columbus, GA-AL	104015
+73	496	.Hinesville-Fort Stewart, GA	476531
+74	356	.Fort Valley, GA	49015
+75	122	.Gainesville, GA	13537
+76	496	.Hinesville-Fort Stewart, GA	29881
+77	122	.LaGrange, GA	253791
+78	356	.Macon, GA	66215
+79	122	.Atlanta-Sandy Springs-Marietta, GA	196629
+80	122	.Atlanta-Sandy Springs-Marietta, GA	36108
+81	496	.Savannah, GA	196629
+82	122	.Thomaston, GA	61351
+83	356	.Warner Robins, GA	559940
+84	112	.Ames, IA	55797
+85	112	.Boone, IA	1330448
+86	420	.Omaha-Council Bluffs, NE-IA	52537
+87	218	.Des Moines, IA	196629
+88	218	.Newton, IA	1330448
+89	512	.Sioux City, IA-NE-SD	647158
+90	292	.Blackfoot, ID	34068
+91	292	.Idaho Falls, ID	165740
+92	176	.Kankakee-Bradley, IL	381751
+93	426	.Canton, IL	120044
+94	176	.Chicago-Naperville-Joliet, IL-IN-WI	602964
+95	466	.Freeport, IL	94556
+96	164	.Cape Girardeau-Jackson, MO-IL	37546
+97	176	.Kankakee-Bradley, IL	2431087
+98	426	.Peoria, IL	5687147
+99	466	.Rochelle, IL	94643
+100	466	.Rockford, IL	18323002
+101	294	.Anderson, IN	37914
+102	258	.Auburn, IN	41624
+103	294	.Columbus, IN	120327
+104	294	.Crawfordsville, IN	509074
+105	258	.Decatur, IN	381751
+106	258	.Fort Wayne, IN	91292
+107	320	.Frankfort, IN	509074
+108	258	.Huntington, IN	602964
+109	294	.Indianapolis, IN	19182
+110	258	.Kendallville, IN	103069
+111	316	.Kokomo, IN	78153
+112	176	.Michigan City-La Porte, IN	115367
+113	320	.Lafayette, IN	103069
+114	176	.Michigan City-La Porte, IN	859532
+115	176	.Chicago-Naperville-Joliet, IL-IN-WI	65521
+116	294	.New Castle, IN	1095421
+117	294	.North Vernon, IN	48996
+118	316	.Peru, IN	602964
+119	350	.Scottsburg, IN	40543
+120	312	.Atchison, KS	28433
+121	556	.Wichita, KS	38890
+122	556	.Winfield, KS	659188
+123	202	.Corbin, KY	58683
+124	350	.Elizabethtown, KY	144742
+125	336	.Lexington-Fayette, KY	112075
+126	336	.Frankfort, KY	54500
+127	336	.Lexington-Fayette, KY	2148143
+128	202	.London, KY	66217
+129	350	.Louisville, KY-IN	128852
+130	424	.Mayfield, KY	53309
+131	178	.Cincinnati-Middletown, OH-KY-IN	61792
+132	336	.Mount Sterling, KY	58683
+133	424	.Paducah, KY-IL	71295
+134	336	.Richmond, KY	2148143
+135	318	.Abbeville, LA	112075
+136	384	.Bastrop, LA	848153
+137	132	.Baton Rouge, LA	1612694
+138	406	.Bogalusa, LA	2148143
+139	508	.Shreveport-Bossier City, LA	2009632
+140	318	.Crowley, LA	73345
+141	256	.De Ridder, LA	46966
+142	318	.Opelousas-Eunice, LA	102728
+143	256	.Fort Polk South, LA	694960
+144	324	.Jennings, LA	825875
+145	406	.New Orleans-Metairie-Kenner, LA	650154
+146	318	.Lafayette, LA	33342
+147	324	.Lake Charles, LA	825875
+148	406	.New Orleans-Metairie-Kenner, LA	1037831
+149	508	.Minden, LA	621517
+150	384	.Monroe, LA	621517
+151	318	.New Iberia, LA	18323002
+152	406	.New Orleans-Metairie-Kenner, LA	621517
+153	318	.Opelousas-Eunice, LA	177749
+154	132	.Pierre Part, LA	96501
+155	508	.Shreveport-Bossier City, LA	63094
+156	148	.Boston-Cambridge-Quincy, MA-NH	55073
+157	148	.Boston-Cambridge-Quincy, MA-NH	124345
+158	148	.Boston-Cambridge-Quincy, MA-NH	48599
+159	148	.Worcester, MA	60370
+160	548	.Washington-Arlington-Alexandria, DC-VA-MD-WV	81963
+161	548	.Baltimore-Towson, MD	49708
+162	548	.Lexington Park, MD	825875
+163	480	.Ocean Pines, MD	1375765
+164	480	.Salisbury, MD	32485
+165	548	.Baltimore-Towson, MD	1375765
+166	438	.Lewiston-Auburn, ME	41259
+167	438	.Lewiston-Auburn, ME	129292
+168	438	.Portland-South Portland, ME	18018
+169	438	.Portland-South Portland, ME	41190
+170	266	.Allegan, MI	45044
+171	220	.Ann Arbor, MI	146438
+172	474	.Bay City, MI	350761
+173	220	.Detroit-Warren-Livonia, MI	18323002
+174	330	.Lansing-East Lansing, MI	146438
+175	220	.Flint, MI	350761
+176	266	.Holland-Grand Haven, MI	5687147
+177	266	.Grand Rapids-Wyoming, MI	146438
+178	266	.Holland-Grand Haven, MI	380841
+179	330	.Lansing-East Lansing, MI	380841
+180	220	.Detroit-Warren-Livonia, MI	56325
+181	220	.Monroe, MI	136225
+182	266	.Muskegon-Norton Shores, MI	767041
+183	266	.Muskegon-Norton Shores, MI	36160
+184	330	.Owosso, MI	25136
+185	474	.Saginaw-Saginaw Township North, MI	174367
+186	474	.Saginaw-Saginaw Township North, MI	421961
+187	220	.Detroit-Warren-Livonia, MI	147246
+188	266	.Grand Rapids-Wyoming, MI	122660
+189	378	.Minneapolis-St. Paul-Bloomington, MN-WI	96287
+190	378	.Faribault-Northfield, MN	130340
+191	378	.Hutchinson, MN	421961
+192	378	.Minneapolis-St. Paul-Bloomington, MN-WI	797071
+193	378	.Faribault-Northfield, MN	71219
+194	378	.Red Wing, MN	122660
+195	378	.St. Cloud, MN	123339
+196	378	.Minneapolis-St. Paul-Bloomington, MN-WI	63780
+197	164	.Cape Girardeau-Jackson, MO-IL	147246
+198	476	.Farmington, MO	35998
+199	312	.Kansas City, MO-KS	643430
+200	164	.Sikeston, MO	643430
+201	476	.St. Louis, MO-IL	426493
+202	312	.Warrensburg, MO	91025
+203	274	.Gulfport-Biloxi, MS	1330448
+204	274	.Gulfport-Biloxi, MS	797071
+205	298	.Jackson, MS	29334
+206	274	.Pascagoula, MS	369171
+207	298	.Yazoo City, MS	58100
+208	172	.Albemarle, NC	28149
+209	120	.Asheville, NC	150564
+210	120	.Brevard, NC	497197
+211	450	.Raleigh-Cary, NC	246190
+212	172	.Charlotte-Gastonia-Concord, NC-SC	246190
+213	450	.Dunn, NC	48258
+214	450	.Durham, NC	2698687
+215	268	.Greensboro-High Point, NC	40422
+216	268	.Greensboro-High Point, NC	1836038
+217	354	.Laurinburg, NC	55641
+218	268	.Lexington-Thomasville, NC	90312
+219	172	.Lincolnton, NC	2968806
+220	354	.Lumberton, NC	167392
+221	172	.Statesville-Mooresville, NC	44127
+222	268	.Mount Airy, NC	56665
+223	450	.Raleigh-Cary, NC	2968806
+224	268	.Winston-Salem, NC	34898
+225	172	.Salisbury, NC	56665
+226	172	.Shelby, NC	2968806
+227	172	.Statesville-Mooresville, NC	740482
+228	268	.Lexington-Thomasville, NC	4452557
+229	268	.Winston-Salem, NC	210039
+230	244	.Fargo, ND-MN	210039
+231	244	.Wahpeton, ND-MN	71687
+232	420	.Fremont, NE	170200
+233	420	.Omaha-Council Bluffs, NE-IA	170200
+234	148	.Concord, NH	145945
+235	148	.Laconia, NH	4452557
+236	148	.Manchester-Nashua, NH	447728
+237	148	.Manchester-Nashua, NH	238314
+238	428	.Vineland-Millville-Bridgeton, NJ	740482
+239	428	.Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	238314
+240	408	.Trenton-Ewing, NJ	436141
+241	428	.Vineland-Millville-Bridgeton, NJ	447728
+242	408	.New York-Northern New Jersey-Long Island, NY-NJ-PA2/	4452557
+243	408	.Trenton-Ewing, NJ	110157
+244	428	.Vineland-Millville-Bridgeton, NJ	322895
+245	188	.Clovis, NM	105665
+246	492	.Espanola, NM	487568
+247	188	.Portales, NM	487568
+248	492	.Santa Fe, NM	103793
+249	472	.Gardnerville Ranchos, NV	103793
+250	332	.Las Vegas-Paradise, NV	2552994
+251	332	.Pahrump, NV	109391
+252	332	.Las Vegas-Paradise, NV	46543
+253	104	.Albany-Schenectady-Troy, NY	86211
+254	104	.Amsterdam, NY	2552994
+255	532	.Auburn, NY	4796183
+256	464	.Batavia, NY	750963
+257	296	.Cortland, NY	4391344
+258	104	.Glens Falls, NY	4391344
+259	104	.Gloversville, NY	4391344
+260	104	.Hudson, NY	375965
+261	296	.Ithaca, NY	23388
+262	408	.Kingston, NY	87700
+263	408	.Poughkeepsie-Newburgh-Middletown, NY	1316510
+264	408	.New York-Northern New Jersey-Long Island, NY-NJ-PA2/	73266
+265	408	.Poughkeepsie-Newburgh-Middletown, NY	170053
+266	408	.Poughkeepsie-Newburgh-Middletown, NY	41831
+267	464	.Rochester, NY	1316510
+268	104	.Albany-Schenectady-Troy, NY	193568
+269	464	.Seneca Falls, NY	239086
+270	532	.Syracuse, NY	1316510
+271	104	.Albany-Schenectady-Troy, NY	31435
+272	184	.Akron, OH	52531
+273	184	.Ashtabula, OH	87700
+274	360	.Bucyrus, OH	32986
+275	198	.Chillicothe, OH	58861
+276	178	.Cincinnati-Middletown, OH-KY-IN	375965
+277	184	.Cleveland-Elyria-Mentor, OH	43926
+278	198	.Columbus, OH	705973
+279	212	.Dayton, OH	31021
+280	566	.East Liverpool-Salem, OH	53807
+281	184	.Cleveland-Elyria-Mentor, OH	87454
+282	248	.Findlay, OH	98765
+283	248	.Tiffin-Fostoria, OH	40195
+284	534	.Fremont, OH	2009632
+285	212	.Greenville, OH	37028
+286	360	.Mansfield, OH	1161975
+287	198	.Marion, OH	52715
+288	184	.Cleveland-Elyria-Mentor, OH	408326
+289	198	.Mount Vernon, OH	66798
+290	566	.East Liverpool-Salem, OH	408326
+291	212	.Springfield, OH	107547
+292	248	.Tiffin-Fostoria, OH	35865
+293	534	.Toledo, OH	36291
+294	212	.Urbana, OH	571166
+295	198	.Washington, OH	16774
+296	178	.Wilmington, OH	22960
+297	566	.Youngstown-Warren-Boardman, OH-PA	36082
+298	538	.Bartlesville, OK	27554
+299	416	.Oklahoma City, OK	48508
+300	416	.Shawnee, OK	9098316
+301	538	.Tulsa, OK	110106
+302	102	.Albany-Lebanon, OR	178541
+303	140	.Bend, OR	110106
+304	102	.Corvallis, OR	101541
+305	102	.Albany-Lebanon, OR	46275
+306	140	.Prineville, OR	1525104
+307	566	.Youngstown-Warren-Boardman, OH-PA	38075
+308	276	.Harrisburg-Carlisle, PA	33866
+309	564	.Gettysburg, PA	390156
+310	564	.York-Hanover, PA	33625
+311	276	.Harrisburg-Carlisle, PA	37629
+312	276	.Lebanon, PA	71435
+313	526	.Lewisburg, PA	40285
+314	558	.Lock Haven, PA	133358
+315	408	.New York-Northern New Jersey-Long Island, NY-NJ-PA2/	320204
+316	430	.New Castle, PA	51032
+317	428	.Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	366899
+318	430	.Pittsburgh, PA	103833
+319	526	.Selinsgrove, PA	90312
+320	526	.Sunbury, PA	48979
+321	566	.Youngstown-Warren-Boardman, OH-PA	9098316
+322	558	.Williamsport, PA	38250
+323	564	.York-Hanover, PA	103833
+324	272	.Anderson, SC	101677
+325	172	.Chester, SC	41735
+326	192	.Columbia, SC	143053
+327	172	.Charlotte-Gastonia-Concord, NC-SC	37213
+328	396	.Myrtle Beach-Conway-North Myrtle Beach, SC	481394
+329	516	.Gaffney, SC	767041
+330	172	.Charlotte-Gastonia-Concord, NC-SC	26224
+331	396	.Georgetown, SC	79981
+332	272	.Greenville, SC	110765
+333	172	.Lancaster, SC	27597
+334	396	.Myrtle Beach-Conway-North Myrtle Beach, SC	293000
+335	192	.Newberry, SC	4247981
+336	396	.Myrtle Beach-Conway-North Myrtle Beach, SC	4247981
+337	272	.Seneca, SC	222368
+338	516	.Spartanburg, SC	58779
+339	516	.Union, SC	71914
+340	512	.Vermillion, SD	139277
+341	174	.Athens, TN	23668
+342	174	.Chattanooga, TN-GA	71914
+343	174	.Cleveland, TN	281768
+344	400	.Columbia, TN	38127
+345	400	.Nashville-Davidson--Murfreesboro, TN	4247981
+346	314	.Harriman, TN	53345
+347	304	.Johnson City, TN	49832
+348	304	.Kingsport-Bristol, TN-VA	443343
+349	314	.Knoxville, TN	1644561
+350	314	.La Follette, TN	443343
+351	392	.Morristown, TN	443343
+352	400	.Nashville-Davidson--Murfreesboro, TN	5687147
+353	400	.Nashville-Davidson--Murfreesboro, TN	4796183
+354	392	.Newport, TN	109091
+355	314	.Sevierville, TN	1148618
+356	206	.Dallas-Fort Worth-Arlington, TX	182193
+357	206	.Athens, TX	882567
+358	288	.Bay City, TX	882567
+359	288	.Houston-Baytown-Sugar Land, TX	824008
+360	154	.Brownsville-Harlingen, TX	824008
+361	204	.Corpus Christi, TX	1148618
+362	206	.Dallas-Fort Worth-Arlington, TX	1148618
+363	206	.Dallas-Fort Worth-Arlington, TX	882567
+364	206	.Gainesville, TX	2179240
+365	206	.Granbury, TX	269814
+366	154	.Brownsville-Harlingen, TX	2179240
+367	288	.Houston-Baytown-Sugar Land, TX	255602
+368	288	.Huntsville, TX	753197
+369	540	.Jacksonville, TX	394542
+370	204	.Kingsville, TX	92033
+371	352	.Levelland, TX	753197
+372	346	.Longview, TX	1735819
+373	352	.Lubbock, TX	458614
+374	346	.Marshall, TX	255602
+375	206	.Mineral Wells, TX	1735819
+376	154	.Raymondville, TX	12365627
+377	288	.Houston-Baytown-Sugar Land, TX	1735819
+378	540	.Tyler, TX	4123740
+379	482	.Brigham City, UT	3254821
+380	482	.Ogden-Clearfield, UT	1796857
+381	482	.Ogden-Clearfield, UT	3254821
+382	482	.Salt Lake City, UT	458614
+383	548	.Washington-Arlington-Alexandria, DC-VA-MD-WV	753197
+384	304	.Bristol, VA	3254821
+385	304	.Kingsport-Bristol, TN-VA	4123740
+386	548	.Winchester, VA-WV	124279
+387	500	.Seattle-Tacoma-Bellevue, WA	123109
+388	500	.Bremerton-Silverdale, WA	12365627
+389	500	.Oak Harbor, WA	12365627
+390	500	.Olympia, WA	92033
+391	500	.Seattle-Tacoma-Bellevue, WA	799407
+392	500	.Shelton, WA	4123740
+393	500	.Bremerton-Silverdale, WA	394542
+394	500	.Seattle-Tacoma-Bellevue, WA	1796857
+395	118	.Appleton, WI	1796857
+396	358	.Baraboo, WI	67165
+397	252	.Beaver Dam, WI	107341
+398	232	.Eau Claire, WI	610518
+399	252	.Fond du Lac, WI	610518
+400	176	.Chicago-Naperville-Joliet, IL-IN-WI	36583
+401	358	.Madison, WI	24105
+402	232	.Menomonie, WI	92744
+403	554	.Merrill, WI	115092
+404	376	.Milwaukee-Waukesha-West Allis, WI	399843
+405	118	.Oshkosh-Neenah, WI	342376
+406	118	.Oshkosh-Neenah, WI	1052238
+407	376	.Racine, WI	140415
+408	376	.Milwaukee-Waukesha-West Allis, WI	92744
+409	554	.Wausau, WI	130861
+410	376	.Milwaukee-Waukesha-West Allis, WI	145867
+411	138	.Beckley, WV	140415
+412	242	.Clarksburg, WV	77483
+413	242	.Fairmont, WV	1052238
+414	138	.Oak Hill, WV	115092
